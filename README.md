@@ -7,8 +7,8 @@
           
 * [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/blob/master/Jupyter%20for%20Begin/NoteBook_Tutorial.ipynb)  
 * [جلسه اول](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture01)  
-* [جلسه دوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture02)
-
+* [جلسه دوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture02)  
+* [جلسه سوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture03)
 
 
 
