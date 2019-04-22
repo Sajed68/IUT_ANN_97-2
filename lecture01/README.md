@@ -5,5 +5,5 @@
 * اعداد در پایتون
 * نحوه انتساب یک متغیر
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.aparat.com/v/uOBl2&t=دوره مقدماتی پایتون-جلسه ۱- شبکه عصبی دانشگاه صنعتی اصفهان)
-
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+<amp-iframe width="640" height="360" sandbox="allow-scripts allow-same-origin" layout="responsive" frameborder="0" src="https://www.aparat.com/video/video/embed/videohash/uOBl2/vt/frame"></amp-iframe>
