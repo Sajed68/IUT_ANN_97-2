@@ -6,8 +6,15 @@
 * نحوه انتساب یک متغیر
 
 
+> دیدن در آپارات  
+[![جلسه ۱](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/video/video/embed/videohash/uOBl2/vt/frame)  
 
-[![جلسه ۱](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.aparat.com/video/video/embed/videohash/uOBl2/vt/frame)
 
 
-<a href="https://www.aparat.com/video/video/embed/videohash/uOBl2/vt/frame" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+> دانلود از آپارات  
+[![download](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://hw16.cdn.asset.aparat.com/aparat-video/ec538fc8529bf2938a1e6915cf100c4414610277-1080p__98413.mp4)
+
+
+> لینک در آپارات  
+[![جلسه ۱](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/v/uOBl2) 
