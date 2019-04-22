@@ -8,3 +8,16 @@
 * [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/blob/master/Jupyter%20for%20Begin/NoteBook_Tutorial.ipynb)  
 * [جلسه اول](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture01)  
 * [جلسه دوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture02)
+
+
+
+
+-------------------------
+در جدول زیر محتوای ویدیو هر جلسه آمده است. 
+
+
+| زمان        | محتوا           | جلسه  |
+| ------------- |:-------------:| -----:|
+|      ۲۳ دقیقه         |مقدمه- اعداد در پایتون | جلسه اول |  
+|۱۶ دقیقه | رشته‌ها | جلسه دوم |  
+| ۱۲ دقیقه | لیست‌ها و چندتایی‌ها | جلسه سوم|  
