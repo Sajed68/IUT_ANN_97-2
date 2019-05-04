@@ -9,7 +9,13 @@
 * [جلسه اول](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture01)  
 * [جلسه دوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture02)  
 * [جلسه سوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture03)
-* [چلسه چهارم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture04)
+* [جلسه چهارم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture04)  
+* [جلسه پنجم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture05)  
+* [جلسه ششم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture06)  
+* [جلسه هفتم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture07)  
+* [جلسه هشتم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture08)  
+* [جلسه نهم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture09)  
+* [جلسه دهم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture10)  
 
 
 -------------------------
@@ -22,3 +28,5 @@
 |۱۶ دقیقه | رشته‌ها | جلسه دوم |  
 | ۱۲ دقیقه | لیست‌ها و چندتایی‌ها | جلسه سوم| 
 |۲۰ دقیقه | عملگرهای مقایسه‌ای و گزاره‌های شرطی| جلسه چهارم|  
+|۱۶ دقیقه |حلقه‌های for | جلسه پنجم |  
+
