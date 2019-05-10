@@ -7,7 +7,7 @@
 
 
 > دیدن در آپارات  
-[![جلسه ۱۱](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/video/video/embed/videohash/PO0RF/vt/frame)  
+[![جلسه ۱۱](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/video/video/embed/videohash/b3DA5/vt/frame)  
 
 
 
@@ -17,7 +17,9 @@
 
 
 > لینک در آپارات  
-[![جلسه ۱۱](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/v/PO0RF) 
+[![جلسه ۱۱](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/v/b3DA5)
+
+
 
 
 
