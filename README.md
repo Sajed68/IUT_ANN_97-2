@@ -6,16 +6,17 @@
 </p>
           
 * [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/blob/master/Jupyter%20for%20Begin/NoteBook_Tutorial.ipynb)  
-* [جلسه اول](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture01)  
-* [جلسه دوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture02)  
-* [جلسه سوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture03)
-* [جلسه چهارم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture04)  
-* [جلسه پنجم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture05)  
-* [جلسه ششم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture06)  
-* [جلسه هفتم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture07)  
-* [جلسه هشتم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture08)  
-* [جلسه نهم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture09)  
-* [جلسه دهم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture10)  
+* [جلسه اول-اعداد](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture01)  
+* [جلسه دوم-رشته‌ها](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture02)  
+* [جلسه سوم-لیست و چندتایی](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture03)
+* [جلسه چهارم-گزاره‌های شرطی](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture04)  
+* [جلسه پنجم-حلقه‌ها۱](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture05)  
+* [جلسه ششم-حلقه‌ها۲](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture06)  
+* [جلسه هفتم-حلقه‌ها ۳](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture07)  
+* [جلسه هشتم-تمرین پایتونی-حدس عدد](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture08)  
+* [جلسه نهم-توابع و متدها](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture09)  
+* [جلسه دهم-ماژول‌ها و بسته‌ها](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture10)  
+* [جلسه یازدهم-مقدمه‌ای بر نامپی](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture11)  
 
 
 -------------------------
@@ -34,6 +35,7 @@
 |۴ دقیقه | تمرین اول-صورت سوال- حدس عدد| جلسه هشتم|  
 |۴۴ دقیقه | توابع و متدها | جلسه نهم|  
 |۱۶ دقیقه | ماژول و  بسته در پایتون| جلسه دهم|  
+|۵۱ دقیقه| مقدمه‌ای بر Numpy| جلسه یازدهم|  
 
 
 
