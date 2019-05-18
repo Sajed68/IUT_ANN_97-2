@@ -17,6 +17,8 @@
 * [جلسه نهم-توابع و متدها](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture09)  
 * [جلسه دهم-ماژول‌ها و بسته‌ها](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture10)  
 * [جلسه یازدهم-مقدمه‌ای بر نامپی](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture11)  
+* [تمرین کامپیوتری سری اول- متلب](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/CHW01)  
+
 
 
 -------------------------
