@@ -41,7 +41,7 @@ while (criterion_check == 0)
         index = N_sample;
     end
     
-    sajjad = repmat(b,1,N_sample);
+    bias = repmat(b,1,N_sample);
     all_error = hardlim(W * P_matrix + repmat(b,1,N_sample)) - T_matrix;
     if (nnz(all_error) == 0)
         criterion_check = 1;
