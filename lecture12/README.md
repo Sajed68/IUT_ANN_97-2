@@ -16,7 +16,7 @@
 
 
 > دانلود از آپارات  
-[![download](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](g1.asset.aparat.com//flv_video_new/5064/3672cc996812482c8754e2d2a9da969c15190168-1080p.mp4)
+[![download](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](http://g1.asset.aparat.com//flv_video_new/5064/3672cc996812482c8754e2d2a9da969c15190168-1080p.mp4)
 
 
 > لینک در آپارات  
