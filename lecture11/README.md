@@ -6,24 +6,5 @@
 
 
 
-> دیدن در آپارات  
-[![جلسه ۱۱](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/video/video/embed/videohash/b3DA5/vt/frame)  
-
-
-
-
-> دانلود از آپارات  
-[![download](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](http://g1.asset.aparat.com//flv_video_new/4956/a1d5b5bee01cf25e609a37748ef48cf214865857-1080p.mp4)
-
-
-> لینک در آپارات  
-[![جلسه ۱۱](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/v/b3DA5)
-
-
-
-
-
-
-
-
+[![PLAY Video](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://hw17.cdn.asset.aparat.com/aparat-video/6aae94656e0464741d8d3c107396a2e215270344-1080p__37943.mp4)
 

@@ -6,16 +6,4 @@
 * دستورات شرطی  
 
 
-> دیدن در آپارات  
-[![جلسه ۴](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/video/video/embed/videohash/uxS28/vt/frame)  
-
-
-
-
-> دانلود از آپارات  
-[![download](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](http://g1.asset.aparat.com/flv_video_new/4874/8a35def4f9ab6dfbb19f585c579a286f14621317-1080p.mp4)
-
-
-> لینک در آپارات  
-[![جلسه ۴](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/v/uxS28) 
-
+[![PLAY Video](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://hw17.cdn.asset.aparat.com/aparat-video/9ba7b908f91fd9c32c1ad31df70e38c615270204-1080p__28456.mp4)

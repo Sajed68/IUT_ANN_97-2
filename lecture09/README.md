@@ -8,19 +8,4 @@
 * متغیرهای محلی و سراسری
 
 
-> دیدن در آپارات  
-[![جلسه ۹](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/video/video/embed/videohash/WJxgk/vt/frame)  
-
-
-
-
-> دانلود از آپارات  
-[![download](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](http://g1.asset.aparat.com//flv_video_new/4925/c9c534a342cb55831bf0e9d45427c74a14774507-1080p.mp4)
-
-
-> لینک در آپارات  
-[![جلسه ۹](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://www.aparat.com/v/WJxgk) 
-
-
-
-
+[![PLAY Video](https://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png)](https://as11.cdn.asset.aparat.com/aparat-video/4d2d4ae3879f001ff29160ac5378536415270317-1080p__48050.mp4)
