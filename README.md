@@ -6,8 +6,9 @@
 </p>
 <p dir=rtl>
 لینک ویدیوها در آپارات:
-</p>
-> [https://www.aparat.com/SajedRakhsani](https://www.aparat.com/SajedRakhsani)
+</p>  
+
+> [https://www.aparat.com/SajedRakhsani](https://www.aparat.com/SajedRakhsani)  
 
           
 * [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/blob/master/Jupyter%20for%20Beginners/NoteBook_Tutorial.ipynb)  
@@ -24,6 +25,7 @@
 * [جلسه یازدهم-مقدمه‌ای بر نامپی](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture11)  
 * [تمرین کامپیوتری سری اول- متلب](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/CHW01)  
 * [جلسه دوازدهم- شروع یک مثال ساده:پرسپترون تک لایه](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture12)  
+* [جلسه دوازدهم- شروع یک مثال ساده:ابزار scikit-learn](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture12)  
 
 
 
@@ -46,6 +48,7 @@
 |۱۶ دقیقه | ماژول و  بسته در پایتون| جلسه دهم|  
 |۵۱ دقیقه| مقدمه‌ای بر Numpy| جلسه یازدهم|  
 |۳۷ دقیقه| مثال ساده-نامپی- بخش ۱ | جلسه دوازدهم|  
+|۱۳ دقیقه| مثال ساده- sklearn-بخش ۲|جلسه دوازدهم|  
 
 
 
