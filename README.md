@@ -9,6 +9,8 @@
 </p>  
 
 > [https://www.aparat.com/SajedRakhsani](https://www.aparat.com/SajedRakhsani)  
+> (بله اسم اشتباه نوشته شده :) )  
+
 
           
 * [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/blob/master/Jupyter%20for%20Beginners/NoteBook_Tutorial.ipynb)  
