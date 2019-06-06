@@ -4,6 +4,11 @@
 <p dir=rtl>
 در این مخزن فایل‌های مورد نیاز برای درس شبکه عصبی در اختیار دانشجویان قرار می‌گیرد.
 </p>
+<p dir=rtl>
+لینک ویدیوها در آپارات:
+</p>
+> [https://www.aparat.com/SajedRakhsani](https://www.aparat.com/SajedRakhsani)
+
           
 * [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/blob/master/Jupyter%20for%20Beginners/NoteBook_Tutorial.ipynb)  
 * [جلسه اول-اعداد](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture01)  
