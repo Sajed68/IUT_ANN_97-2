@@ -11,6 +11,8 @@
 > [https://www.aparat.com/SajedRakhsani](https://www.aparat.com/SajedRakhsani)  
 > (بله اسم اشتباه نوشته شده :) )  
 
+> توجه: اگر احتمالا وقتی از گزینه دانلود سبز رنگ در گوشه بالا سمت راست استفاده می‌کنید، ممکن هست ویدیوها بارگیری نشوند، بهتر هست ویدیو‌ها را یکی یکی از اینجا و یا آپارات بگیرید. ضمن این که گیت‌هاب اجازه بارگزاری ویدیوی بیشتر را به من نمی‌دهد!  
+
 
           
 * [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/blob/master/Jupyter%20for%20Beginners/NoteBook_Tutorial.ipynb)  
