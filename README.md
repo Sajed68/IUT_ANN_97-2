@@ -11,11 +11,13 @@
 > [https://www.aparat.com/SajedRakhsani](https://www.aparat.com/SajedRakhsani)  
 > (بله اسم اشتباه نوشته شده :) )  
 
-> توجه: اگر احتمالا وقتی از گزینه دانلود سبز رنگ در گوشه بالا سمت راست استفاده می‌کنید، ممکن هست ویدیوها بارگیری نشوند، بهتر هست ویدیو‌ها را یکی یکی از اینجا و یا آپارات بگیرید. ضمن این که گیت‌هاب اجازه بارگزاری ویدیوی بیشتر را به من نمی‌دهد!  
+> توجه: اگر احتمالا وقتی از گزینه دانلود سبز رنگ در گوشه بالا سمت راست استفاده می‌کنید، ممکن هست ویدیوها بارگیری نشوند، بهتر هست ویدیو‌ها را یکی یکی از اینجا و یا آپارات بگیرید. ضمن این که گیت‌هاب اجازه بارگزاری ویدیوی بیشتر را به من نمی‌دهد! بنابراین علاوه بر این مخزن، و آپارات، فایل‌ها و ویدیوها را می‌توانید از طریق مخزن زیر نیز پگیری نمایید:  
+>[https://gitlab.com/sajed68/pythoncourseiut/](https://gitlab.com/sajed68/pythoncourseiut/)
+> که احتمالا تحریم هستیم :(
 
 
           
-* [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/blob/master/Jupyter%20for%20Beginners/NoteBook_Tutorial.ipynb)  
+* [نگاه اولیه به ژوپیتر](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/Jupyter%20for%20Beginners/NoteBook_Tutorial.ipynb)  
 * [جلسه اول-اعداد](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture01)  
 * [جلسه دوم-رشته‌ها](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture02)  
 * [جلسه سوم-لیست و چندتایی](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture03)
@@ -30,6 +32,9 @@
 * [تمرین کامپیوتری سری اول- متلب](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/CHW01)  
 * [جلسه دوازدهم- شروع یک مثال ساده:پرسپترون تک لایه](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture12)  
 * [جلسه دوازدهم- شروع یک مثال ساده:ابزار scikit-learn](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture12)  
+* [جلسه سیزدهم- خلاصه مطالب، تعریف پروژه نهایی و تمرین کامپیوتری دوم](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture13)  
+* [جلسه چهاردهم- مقدمه‌ای برای Keras](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture14)  
+* [جلسه پانزدهم- یک نمونه تمرین](https://github.com/Sajed68/IUT_ANN_97-2/tree/master/lecture15)  
 
 
 
@@ -53,6 +58,12 @@
 |۵۱ دقیقه| مقدمه‌ای بر Numpy| جلسه یازدهم|  
 |۳۷ دقیقه| مثال ساده-نامپی- بخش ۱ | جلسه دوازدهم|  
 |۱۳ دقیقه| مثال ساده- sklearn-بخش ۲|جلسه دوازدهم|  
+|۵۱ دقیقه| خلاصه مطالب، توضیح درمورد پروژه-بخش ۱|جلسه سیزدهم|  
+|۵۲ دقیقه| توضیح درمورد تمرین و پروژه - بخش ۲| جلسه سیزدهم|  
+|۵۱ دقیقه| آشنایی با Keras- بخش ۱| جلسه چهاردهم|  
+|۳۲ دقیقه| آشنایی با Keras-بخش ۲| جلسه چهاردهم|  
+|۲۵ دقیقه| مرور چند تمرین | جلسه پانزدهم|  
+
 
 
 
